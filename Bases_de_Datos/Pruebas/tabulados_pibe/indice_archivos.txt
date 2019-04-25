@@ -1,0 +1,73 @@
+﻿Índice de nombres y contenido de archivos
+
+PIBE_Actividad__total_52_9 / PIB de las actividades económicas por entidad federativa / Total Nacional
+PIBE_Actividad__ap_52_1 / PIB de las actividades económicas por entidad federativa / Actividades primarias
+PIBE_Actividad__11_52_1_11 / PIB de las actividades económicas por entidad federativa / Actividades primarias / Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza
+PIBE_Actividad__as_52_2_10000001 / PIB de las actividades económicas por entidad federativa / Actividades secundarias / Total
+PIBE_Actividad__21_52_2_21 / PIB de las actividades económicas por entidad federativa / Actividades secundarias / Minería
+PIBE_Actividad__21p_52_2_21_2101 / PIB de las actividades económicas por entidad federativa / Actividades secundarias / Minería / Minería petrolera
+PIBE_Actividad__21np_52_2_21_2102 / PIB de las actividades económicas por entidad federativa / Actividades secundarias / Minería / Minería no petrolera
+PIBE_Actividad__22_52_2_22 / PIB de las actividades económicas por entidad federativa / Actividades secundarias / Generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final
+PIBE_Actividad__23_52_2_23 / PIB de las actividades económicas por entidad federativa / Actividades secundarias / Construcción
+PIBE_Actividad__31-33_52_2_31033 / PIB de las actividades económicas por entidad federativa / Actividades secundarias / Industrias manufactureras
+PIBE_Actividad__311_52_2_31033_311 / PIB de las actividades económicas por entidad federativa / Actividades secundarias / Industrias manufactureras / Industria alimentaria
+PIBE_Actividad__312_52_2_31033_312 / PIB de las actividades económicas por entidad federativa / Actividades secundarias / Industrias manufactureras / Industria de las bebidas y del tabaco
+PIBE_Actividad__313-314_52_2_31033_3130314 / PIB de las actividades económicas por entidad federativa / Actividades secundarias / Industrias manufactureras / Fabricación de insumos textiles y acabado de textiles; Fabricación de productos textiles, excepto prendas de vestir
+PIBE_Actividad__315-316_52_2_31033_3150316 / PIB de las actividades económicas por entidad federativa / Actividades secundarias / Industrias manufactureras / Fabricación de prendas de vestir; Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos
+PIBE_Actividad__321_52_2_31033_321 / PIB de las actividades económicas por entidad federativa / Actividades secundarias / Industrias manufactureras / Industria de la madera
+PIBE_Actividad__322-323_52_2_31033_3220323 / PIB de las actividades económicas por entidad federativa / Actividades secundarias / Industrias manufactureras / Industria del papel; Impresión e industrias conexas
+PIBE_Actividad__324-326_52_2_31033_3240326 / PIB de las actividades económicas por entidad federativa / Actividades secundarias / Industrias manufactureras / Fabricación de productos derivados del petróleo y del carbón; Industria química; Industria del plástico y del hule
+PIBE_Actividad__327_52_2_31033_327 / PIB de las actividades económicas por entidad federativa / Actividades secundarias / Industrias manufactureras / Fabricación de productos a base de minerales no metálicos
+PIBE_Actividad__331-332_52_2_31033_3310332 / PIB de las actividades económicas por entidad federativa / Actividades secundarias / Industrias manufactureras / Industrias metálicas básicas; Fabricación de productos metálicos
+PIBE_Actividad__333-336_52_2_31033_3330336 / PIB de las actividades económicas por entidad federativa / Actividades secundarias / Industrias manufactureras / Fabricación de maquinaria y equipo; Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos; Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica; Fabricación de equipo de transporte
+PIBE_Actividad__337_52_2_31033_337 / PIB de las actividades económicas por entidad federativa / Actividades secundarias / Industrias manufactureras / Fabricación de muebles, colchones y persianas
+PIBE_Actividad__339_52_2_31033_339 / PIB de las actividades económicas por entidad federativa / Actividades secundarias / Industrias manufactureras / Otras industrias manufactureras
+PIBE_Actividad__at_52_3 / PIB de las actividades económicas por entidad federativa / Actividades terciarias
+PIBE_Actividad__43_52_3_43 / PIB de las actividades económicas por entidad federativa / Actividades terciarias / Comercio al por mayor
+PIBE_Actividad__46_52_3_46 / PIB de las actividades económicas por entidad federativa / Actividades terciarias / Comercio al por menor
+PIBE_Actividad__48-49_52_3_48049 / PIB de las actividades económicas por entidad federativa / Actividades terciarias / Transportes, correos y almacenamiento
+PIBE_Actividad__51_52_3_51 / PIB de las actividades económicas por entidad federativa / Actividades terciarias / Información en medios masivos
+PIBE_Actividad__52_52_3_52 / PIB de las actividades económicas por entidad federativa / Actividades terciarias / Servicios financieros y de seguros
+PIBE_Actividad__53_52_3_53 / PIB de las actividades económicas por entidad federativa / Actividades terciarias / Servicios inmobiliarios y de alquiler de bienes muebles e intangibles
+PIBE_Actividad__54_52_3_54 / PIB de las actividades económicas por entidad federativa / Actividades terciarias / Servicios profesionales, científicos y técnicos
+PIBE_Actividad__55_52_3_55 / PIB de las actividades económicas por entidad federativa / Actividades terciarias / Corporativos
+PIBE_Actividad__56_52_3_56 / PIB de las actividades económicas por entidad federativa / Actividades terciarias / Servicios de apoyo a los negocios y manejo de residuos y desechos, y servicios de remediación
+PIBE_Actividad__61_52_3_61 / PIB de las actividades económicas por entidad federativa / Actividades terciarias / Servicios educativos
+PIBE_Actividad__62_52_3_62 / PIB de las actividades económicas por entidad federativa / Actividades terciarias / Servicios de salud y de asistencia social
+PIBE_Actividad__71_52_3_71 / PIB de las actividades económicas por entidad federativa / Actividades terciarias / Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos
+PIBE_Actividad__72_52_3_72 / PIB de las actividades económicas por entidad federativa / Actividades terciarias / Servicios de alojamiento temporal y de preparación de alimentos y bebidas
+PIBE_Actividad__81_52_3_81 / PIB de las actividades económicas por entidad federativa / Actividades terciarias / Otros servicios excepto actividades gubernamentales
+PIBE_Actividad__93_52_3_93 / PIB de las actividades económicas por entidad federativa / Actividades terciarias / Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales
+PIBE_Entidad__Nac_53_35 / PIB de las entidades federativas por actividad económica / Estados Unidos Mexicanos
+PIBE_Entidad__Ags_53_1 / PIB de las entidades federativas por actividad económica / Aguascalientes
+PIBE_Entidad__BC_53_2 / PIB de las entidades federativas por actividad económica / Baja California
+PIBE_Entidad__BCS_53_3 / PIB de las entidades federativas por actividad económica / Baja California Sur
+PIBE_Entidad__Camp_53_4 / PIB de las entidades federativas por actividad económica / Campeche
+PIBE_Entidad__Coah_53_5 / PIB de las entidades federativas por actividad económica / Coahuila de Zaragoza
+PIBE_Entidad__Col_53_6 / PIB de las entidades federativas por actividad económica / Colima
+PIBE_Entidad__Chis_53_7 / PIB de las entidades federativas por actividad económica / Chiapas
+PIBE_Entidad__Chih_53_8 / PIB de las entidades federativas por actividad económica / Chihuahua
+PIBE_Entidad__CDMX_53_9 / PIB de las entidades federativas por actividad económica / Ciudad de México
+PIBE_Entidad__Dgo_53_10 / PIB de las entidades federativas por actividad económica / Durango
+PIBE_Entidad__Gto_53_11 / PIB de las entidades federativas por actividad económica / Guanajuato
+PIBE_Entidad__Gro_53_12 / PIB de las entidades federativas por actividad económica / Guerrero
+PIBE_Entidad__Hgo_53_13 / PIB de las entidades federativas por actividad económica / Hidalgo
+PIBE_Entidad__Jal_53_14 / PIB de las entidades federativas por actividad económica / Jalisco
+PIBE_Entidad__Méx_53_15 / PIB de las entidades federativas por actividad económica / México
+PIBE_Entidad__Mich_53_16 / PIB de las entidades federativas por actividad económica / Michoacán de Ocampo
+PIBE_Entidad__Mor_53_17 / PIB de las entidades federativas por actividad económica / Morelos
+PIBE_Entidad__Nay_53_18 / PIB de las entidades federativas por actividad económica / Nayarit
+PIBE_Entidad__NL_53_19 / PIB de las entidades federativas por actividad económica / Nuevo León
+PIBE_Entidad__Oax_53_20 / PIB de las entidades federativas por actividad económica / Oaxaca
+PIBE_Entidad__Pue_53_21 / PIB de las entidades federativas por actividad económica / Puebla
+PIBE_Entidad__Qro_53_22 / PIB de las entidades federativas por actividad económica / Querétaro
+PIBE_Entidad__QR_53_23 / PIB de las entidades federativas por actividad económica / Quintana Roo
+PIBE_Entidad__SLP_53_24 / PIB de las entidades federativas por actividad económica / San Luis Potosí
+PIBE_Entidad__Sin_53_25 / PIB de las entidades federativas por actividad económica / Sinaloa
+PIBE_Entidad__Son_53_26 / PIB de las entidades federativas por actividad económica / Sonora
+PIBE_Entidad__Tab_53_27 / PIB de las entidades federativas por actividad económica / Tabasco
+PIBE_Entidad__Tamps_53_28 / PIB de las entidades federativas por actividad económica / Tamaulipas
+PIBE_Entidad__Tlax_53_29 / PIB de las entidades federativas por actividad económica / Tlaxcala
+PIBE_Entidad__Ver_53_30 / PIB de las entidades federativas por actividad económica / Veracruz de Ignacio de la Llave
+PIBE_Entidad__Yuc_53_31 / PIB de las entidades federativas por actividad económica / Yucatán
+PIBE_Entidad__Zac_53_32 / PIB de las entidades federativas por actividad económica / Zacatecas
